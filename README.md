@@ -50,6 +50,8 @@ Three forms, each owning one user role:
 | `Consumer_u.pas` | `TFrmConsumer` | Order capture, costing, confirmation, status lookup, FAQ |
 | `Admin_u.pas` | `TFrmAdmin` | Database administration and reporting |
 
+![Forms Diagram](docs/diagrams/forms_diagram.png)
+
 ### Data model
 
 Two Access tables in a one-to-many relationship — one flight carries many consignments.
